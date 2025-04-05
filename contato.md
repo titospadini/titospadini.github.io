@@ -6,7 +6,7 @@ layout: default
 
 * **tito.caco@ufabc.edu.br** (acadêmico)
 * **tito.spadini@gmail.com** (não acadêmico)
-* **cafecomsinais@gmail.com** (sobre "Café com Sinais")
+<!-- * **cafecomsinais@gmail.com** (sobre "Café com Sinais") -->
 
 
 ## Canais e Redes Sociais
@@ -30,7 +30,7 @@ layout: default
 * [Scholar](https://scholar.google.com.br/citations?user=5d13kDAAAAAJ)
 
 
-### Café com Sinais (Podcast)
+<!-- ### Café com Sinais (Podcast)
 
 * [YouTube - Café com Sinais](https://www.youtube.com/channel/UCLnSFZcHeSNDNpYx1igvvSA) (Episódios Completos)
 * [YouTube - Janelas do Café com Sinais](https://www.youtube.com/channel/UC2wYPgMUzIm9XTKTf6pgOqA) (Partes Individuais)
@@ -42,4 +42,4 @@ layout: default
 * [Twitter](https://twitter.com/CafeComSinais)
 * [LinkedIn](https://www.linkedin.com/company/cafecomsinais/)
 
-Obs: o projeto "Café com Sinais" está temporariamente congelado e sem previsão de descongelamento!
+Obs: o projeto "Café com Sinais" está temporariamente congelado e sem previsão de descongelamento! -->
