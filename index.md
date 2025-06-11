@@ -4,7 +4,7 @@ layout: default
 
 Saudações! Chamo-me Tito Spadini.
 
-Trabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal do ABC_ (UFABC), onde curso o Doutorado pelo _Programa de Pós-Graduação em Engenharia da Informação_ (PPGINF).
+Trabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal do ABC_ (UFABC).
 
 Acredito que todos os cientistas, por princípio, deveriam utilizar seu conhecimento e parte do seu tempo para contribuir com a sociedade de alguma maneira, preferencialmente comunicando-se com pessoas de fora do ambiente acadêmico. Por isso, desenvolvo projetos como: Podcasts, Blogs, canais no YouTube, páginas no Facebook, e palestras que organizo de tempos em tempos; tudo é, de alguma forma, relacionado a educação em _Ciência, Tecnologia, Engenharia e Matemática_ (**STEM**, _Science, Technology, Engineering and Mathematics_).
 
@@ -17,7 +17,7 @@ Acredito que todos os cientistas, por princípio, deveriam utilizar seu conhecim
   * Universidade Federal do ABC (UFABC)
   * Orientador:    Dr. Ricardo Suyama
   * Co-Orientador: Dr. Kenji Nose Filho
-  * 2020 - Atual
+  * 2020 - 2025
 
 * **Mestrado em Engenharia da Informação**
   * Universidade Federal do ABC (UFABC)
@@ -27,17 +27,18 @@ Acredito que todos os cientistas, por princípio, deveriam utilizar seu conhecim
 
 * **Bacharelado em Engenharia de Informação**
   * Universidade Federal do ABC (UFABC)
-  * 2011 - 2017
+  * 2011 - 2018
 
 * **Bacharelado em Ciência e Tecnologia**
   * Universidade Federal do ABC (UFABC)
-  * 2011 - 2015
+  * 2011 - 2016
 
 
 ## Áreas de Interesse em Pesquisa
 
 * Síntese de Fala
 * Melhoramento de Áudio e Voz
+* Classificação de Falhas em Máquinas
 * Separação Cega de Fontes
 * Reconhecimento de Eventos Sonoros
 * Reconhecimento Automático de Fala
