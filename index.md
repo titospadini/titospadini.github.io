@@ -17,6 +17,7 @@ Acredito que todos os cientistas, por princípio, deveriam utilizar seu conhecim
   * Universidade Federal do ABC (UFABC)
   * Orientador:    Dr. Ricardo Suyama
   * Co-Orientador: Dr. Kenji Nose Filho
+  * Tema: _It Doesn't Sound Good: Sound-based Intelligent Machinery Fault Diagnosis_
   * 2020 - 2025
 
 * **Mestrado em Engenharia da Informação**
@@ -27,6 +28,7 @@ Acredito que todos os cientistas, por princípio, deveriam utilizar seu conhecim
 
 * **Bacharelado em Engenharia de Informação**
   * Universidade Federal do ABC (UFABC)
+  * Tema: _Comparação de técnicas para detecção de eventos sonoros para sistemas de segurança_
   * 2011 - 2018
 
 * **Bacharelado em Ciência e Tecnologia**
