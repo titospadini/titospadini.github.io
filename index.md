@@ -2,11 +2,7 @@
 layout: default
 ---
 
-Saudações! Chamo-me Tito Spadini.
-
-Trabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal do ABC_ (UFABC).
-
-Acredito que todos os cientistas, por princípio, deveriam utilizar seu conhecimento e parte do seu tempo para contribuir com a sociedade de alguma maneira, preferencialmente comunicando-se com pessoas de fora do ambiente acadêmico. Por isso, desenvolvo projetos como: Podcasts, Blogs, canais no YouTube, páginas no Facebook, e palestras que organizo de tempos em tempos; tudo é, de alguma forma, relacionado a educação em _Ciência, Tecnologia, Engenharia e Matemática_ (**STEM**, _Science, Technology, Engineering and Mathematics_).
+Saudações! Chamo-me Tito Spadini e rabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal do ABC_ (UFABC).
 
 
 <!-- # _Curriculum vitae_ -->
