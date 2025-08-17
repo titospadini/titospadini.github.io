@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Saudações! Chamo-me Tito Spadini e rabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal do ABC_ (UFABC).
+Saudações! Chamo-me Tito Spadini e trabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal do ABC_ (UFABC).
 
 
 <!-- # _Curriculum vitae_ -->
