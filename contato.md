@@ -13,22 +13,21 @@ layout: default
 
 ### Pessoais
 
-* [Facebook](https://www.facebook.com/titospadini)
+<!-- * [Facebook](https://www.facebook.com/titospadini) -->
 * [Medium](https://www.medium.com/@titospadini)
-* [Twitter](https://www.twitter.com/titospadini)
+<!-- * [Twitter](https://www.twitter.com/titospadini) -->
 * [YouTube](https://www.youtube.com/titospadini)
 
 
 ### Acadêmicas e Profissionais
 
-* [Github](https://github.com/tito-spadini)
-* [Hugging Face](https://huggingface.co/TitoSpadini)
+* [Github](https://github.com/titospadini)
+<!--  * [Hugging Face](https://huggingface.co/TitoSpadini) -->
 * [Lattes](http://lattes.cnpq.br/3817440854911030)
 * [LinkedIn](https://www.linkedin.com/in/titospadini/)
 * [ORCID](https://orcid.org/0000-0002-2716-174X)
 * [Researchgate](https://www.researchgate.net/profile/Tito_Spadini)
 * [Scholar](https://scholar.google.com.br/citations?user=5d13kDAAAAAJ)
-
 
 <!-- ### Café com Sinais (Podcast)
 
