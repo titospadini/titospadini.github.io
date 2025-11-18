@@ -34,6 +34,7 @@ Saudações! Chamo-me Tito Spadini e trabalho no _Laboratório de Sinais e Siste
 
 ## Áreas de Interesse em Pesquisa
 
+* Diagnóstico Inteligente de Falhas
 * Síntese de Fala
 * Melhoramento de Áudio e Voz
 * Classificação de Falhas em Máquinas
@@ -45,6 +46,8 @@ Saudações! Chamo-me Tito Spadini e trabalho no _Laboratório de Sinais e Siste
 * Métodos de Machine Learning
 * Métodos de Ciência de Dados
 
+<!-- 
 Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais", que foi iniciado em 2018 na forma de um típico Podcast (somente em áudio). Convido estudantes, professores e profissionais da indústria para conversar sobre ciência, tecnologia, engenharia, educação, pesquisa, vida acadêmica, habilidades profissionais, e tantos outros tópicos. Apesar dos principais assuntos mencionados, os convidatos podem falar a respeito do que bem quiserem; porém, vale ressaltar que o "Café com Sinais" não endossa suas opiniões ou suas mensagens.
 
 **Obs: o projeto "Café com Sinais" está temporariamente congelado e sem previsão de descongelamento!**
+ -->
