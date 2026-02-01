@@ -12,7 +12,7 @@ Saudações! Chamo-me Tito Spadini e trabalho no _Laboratório de Sinais e Siste
 * **Doutorado em Engenharia da Informação**
   * Universidade Federal do ABC (UFABC)
   * Orientador:    Dr. Ricardo Suyama
-  * Co-Orientador: Dr. Kenji Nose Filho
+  * Coorientador: Dr. Kenji Nose Filho
   * Tema: _It Doesn't Sound Good: Sound-based Intelligent Machinery Fault Diagnosis_
   * 2020 - 2025
 
