@@ -2,6 +2,7 @@
 layout: default
 ---
 
+* _Detecting malicious pilot contamination in multiuser massive MIMO using decision trees_ (Pedro Ivo da Cruz, Dimitri Leandro, **Tito Spadini**, Ricardo Suyama, Murilo Bellezoni Loiola, 2024)
 * _Microphone Array Based Surveillance Audio Classification_ (Dimitri Leandro de Oliveira Silva, **Tito Spadini** e Ricardo Suyama, 2020)
 * _Generative Adversarial Networks para Aprimoramento de audio e Voz_ (**Tito Spadini**, 2020)
 * _On the application of SEGAN for the attenuation of the ego-noise in the speech sound source localization problem_ (**Tito Spadini**, Guilherme Seidyo Imai Aldeia, Guilherme Barreto, Kaleb Alves, Henrique Ferreira, Ricardo Suyama e Kenji Nose-Filho, 2019)
