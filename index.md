@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Saudações! Chamo-me Tito Spadini e trabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal do ABC_ (UFABC).
+Saudações! Chamo-me Tito Spadini e faço Pós-Doutorado na Faculdade de Engenharia Elétrica e de Computação (FEEC) da Universidade Estadual de Campinas (UNICAMP).
 
 
 <!-- # _Curriculum vitae_ -->
