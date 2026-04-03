@@ -7,29 +7,37 @@ Saudações! Chamo-me Tito Spadini e trabalho no _Laboratório de Sinais e Siste
 
 <!-- # _Curriculum vitae_ -->
 
+## **Pós-Doutorado**
+* Universidade Estadual de Campinas (UNICAMP)
+  * Faculdade de Engenharia Elétrica e de Computação (FEEC)
+  * Supervisor: Dr. Romis Ribeiro de Faissol Attux
+  * Tema: Análise Interpretável de Representações Cepstrais de Sinais Acústicos para Problemas de Diagnóstico
+  * 2026 -- Atual
+
+
 ## Educação
 
 * **Doutorado em Engenharia da Informação**
   * Universidade Federal do ABC (UFABC)
   * Orientador:    Dr. Ricardo Suyama
-  * Coorientador: Dr. Kenji Nose Filho
+  * Coorientador:  Dr. Kenji Nose Filho
   * Tema: _It Doesn't Sound Good: Sound-based Intelligent Machinery Fault Diagnosis_
-  * 2020 - 2025
+  * 2020 -- 2025
 
 * **Mestrado em Engenharia da Informação**
   * Universidade Federal do ABC (UFABC)
   * Orientador:  Dr. Ricardo Suyama
   * Tema:  _Generative Adversarial Networks for Audio and Speech Enhancement_
-  * 2018 - 2020
+  * 2018 -- 2020
 
 * **Bacharelado em Engenharia de Informação**
   * Universidade Federal do ABC (UFABC)
   * Tema: _Comparação de técnicas para detecção de eventos sonoros para sistemas de segurança_
-  * 2011 - 2018
+  * 2011 -- 2018
 
 * **Bacharelado em Ciência e Tecnologia**
   * Universidade Federal do ABC (UFABC)
-  * 2011 - 2016
+  * 2011 -- 2016
 
 
 ## Áreas de Interesse em Pesquisa
