@@ -7,8 +7,9 @@ Saudações! Chamo-me Tito Spadini e trabalho no _Laboratório de Sinais e Siste
 
 <!-- # _Curriculum vitae_ -->
 
-## **Pós-Doutorado**
-* Universidade Estadual de Campinas (UNICAMP)
+## Pós-Doutorado
+ 
+* **Universidade Estadual de Campinas (UNICAMP)**
   * Faculdade de Engenharia Elétrica e de Computação (FEEC)
   * Supervisor: Dr. Romis Ribeiro de Faissol Attux
   * Tema: _Análise Interpretável de Representações Cepstrais de Sinais Acústicos para Problemas de Diagnóstico_
