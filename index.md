@@ -11,7 +11,7 @@ Saudações! Chamo-me Tito Spadini e trabalho no _Laboratório de Sinais e Siste
 * Universidade Estadual de Campinas (UNICAMP)
   * Faculdade de Engenharia Elétrica e de Computação (FEEC)
   * Supervisor: Dr. Romis Ribeiro de Faissol Attux
-  * Tema: Análise Interpretável de Representações Cepstrais de Sinais Acústicos para Problemas de Diagnóstico
+  * Tema: _Análise Interpretável de Representações Cepstrais de Sinais Acústicos para Problemas de Diagnóstico_
   * 2026 -- Atual
 
 
