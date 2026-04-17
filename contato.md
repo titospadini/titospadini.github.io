@@ -4,8 +4,9 @@ layout: default
 
 ## Endereços de e-Mail
 
-* **tito.caco@ufabc.edu.br** (acadêmico)
-* **tito.spadini@gmail.com** (não acadêmico)
+* **spadini@unicamp.br** (acadêmico -- UNICAMP)
+* **tito.caco@ufabc.edu.br** (acadêmico -- UFABC)
+* **tito.spadini@gmail.com** (pessoal)
 <!-- * **cafecomsinais@gmail.com** (sobre "Café com Sinais") -->
 
 
