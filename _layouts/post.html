@@ -2,9 +2,10 @@
 layout: default
 language: "pt-BR"
 ---
-<!-- <p>{{ page.date | date: "%-d %B %Y" }} - Escrito por {{ page.author }}</p> -->
-
-{{ content }}
+{% capture meta %}
+<p class="post-meta">Publicado em {{ page.date | date: "%Y-%m-%d" }}{% if page.author %} por {{ page.author }}{% endif %}</p>
+{% endcapture %}
+{{ content | replace_first: "</h1>", "</h1><!--post-meta-->" | replace_first: "<!--post-meta-->", meta }}
 
 <script src="https://utteranc.es/client.js"
         repo="tito-spadini/titocaco.github.io"
